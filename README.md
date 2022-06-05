@@ -7,12 +7,12 @@
 <p align="center">
     
     
-# TrickyAbhi-Bot
+# Naruto-Bot
 OMFO Gimme a star and follow me
     
     
 ### Noob Developers 
-  <a href="https://t.me/ABHIISH3K_xD"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
+  <a href="http:["](https://t.me/NARUT0XD)><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
     
     
     
